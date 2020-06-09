@@ -781,4 +781,5 @@ int main()
 	f3.GetHead();
 
 	PrintLine();
+	system("pause");
 }
